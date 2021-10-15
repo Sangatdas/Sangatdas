@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangatdas" alt="sangatdas" /></a> </p>
 
-- I’m currently working at [Community Gaming](www.communitygaming.io)
+- :man_technologist: I’m currently working at [Community Gaming](www.communitygaming.io) as a Backend Developer as well as Blockchain Developer
 
-- 🌱 I’m skilled at **Full Stack Development, Backend Development, DApp Development**
+- :star: I’m skilled at **Full Stack Development, Backend Development, DApp Development**
 
-- 👯 I used to work at [Barclays](www.barclyas.co.uk)
+- :man_technologist: I used to work at [Barclays](www.barclyas.co.uk) as a Backend Developer
 
-- 🤝 I’m currently working on a pet project [Paperr](https://github.com/Sangatdas/paperr-smart-contract)
+- :computer: I’m currently working on a pet project [Paperr](https://github.com/Sangatdas/paperr-smart-contract)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sangatdas?tab=repositories](https://github.com/Sangatdas?tab=repositories)
+- :file_folder: All of my projects are available at [https://github.com/Sangatdas?tab=repositories](https://github.com/Sangatdas?tab=repositories)
 
 - 💬 Ask me about **Blockchain and Web Development**
 
