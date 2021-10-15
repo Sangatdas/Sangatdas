@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sangat Das</h1>
 <h3 align="center">:desktop_computer: A passionate blockchain developer from India <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg" alt="indian flag" height=20 width=20/></h3>
 
-<img src="https://komarev.com/ghpvc/?username=sangatdas&label=Profile%20views&color=0e75b6&style=flat" alt="sangatdas" />
-
-<h2 align="left">About Me</h3>
+<h2 align="left">About Me &nbsp;<img src="https://komarev.com/ghpvc/?username=sangatdas&label=Profile%20views&color=0e75b6&style=flat" alt="sangatdas" /></h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangatdas&margin-w=5&margin-h=5" alt="sangatdas" /></a> </p>
 
 - :man_technologist: I’m currently working at [Community Gaming](www.communitygaming.io) as a Backend Developer as well as Blockchain Developer
@@ -61,7 +59,7 @@
 <br>
 
 <section>
-  <h2 align="center">Databases</h2>
+  <h2 align="center">Blockchain and Databases</h2>
   <p align="center">
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
     <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>   
@@ -74,20 +72,12 @@
 <br>
 
 <section>
-  <h2 align="center">DevOps</h2>
+  <h2 align="center">DevOps and Cloud</h2>
   <p align="center">
     <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/></a> 
-  </p>
-</section>
-
-<br>
-
-<section>
-  <h2 align="center">Cloud</h2>
-  <p align="center">
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
