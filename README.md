@@ -8,9 +8,9 @@
 
 - :man_technologist: I used to work at [Barclays](www.barclyas.co.uk) as a Backend Developer
 
-- :star: I’m skilled in **Full Stack Development, Backend Development, DApp Development**
+- :star: I’m skilled in **Full Stack Development, Backend Development, DApp Development, Blockchain Development**
 
-- :computer: I’m currently working on a pet project [Paperr](https://github.com/Sangatdas/paperr-smart-contract)
+- :computer: I’m currently working on a Planetmint [Planetmint](https://github.com/planetmint)
 
 - :file_folder: All of my projects are available at [https://github.com/Sangatdas?tab=repositories](https://github.com/Sangatdas?tab=repositories)
 
