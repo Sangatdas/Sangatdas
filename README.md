@@ -10,7 +10,7 @@
 
 - :star: I’m skilled in **Full Stack Development, Backend Development, DApp Development, Blockchain Development**
 
-- :computer: I’m currently working on a Planetmint [Planetmint](https://github.com/planetmint)
+- :computer: I’m currently working on [Planetmint](https://github.com/planetmint)
 
 - :file_folder: All of my projects are available at [https://github.com/Sangatdas?tab=repositories](https://github.com/Sangatdas?tab=repositories)
 
