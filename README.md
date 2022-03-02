@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangat Das</h1>
-<h3 align="center">:desktop_computer: A passionate blockchain developer from India <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg" alt="indian flag" height=20 width=20/></h3>
+<h3 align="center">:desktop_computer: A passionate blockchain developer
 
 <h2 align="left">About Me &nbsp;<img src="https://komarev.com/ghpvc/?username=sangatdas&label=Profile%20views&color=0e75b6&style=flat" alt="sangatdas" /></h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangatdas&margin-w=5&margin-h=5" alt="sangatdas" /></a> </p>
