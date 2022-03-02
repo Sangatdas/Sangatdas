@@ -4,10 +4,6 @@
 <h2 align="left">About Me &nbsp;<img src="https://komarev.com/ghpvc/?username=sangatdas&label=Profile%20views&color=0e75b6&style=flat" alt="sangatdas" /></h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangatdas&margin-w=5&margin-h=5" alt="sangatdas" /></a> </p>
 
-- :man_technologist: I’m currently working at [Community Gaming](www.communitygaming.io) as a Backend Developer as well as Blockchain Developer
-
-- :man_technologist: I used to work at [Barclays](www.barclyas.co.uk) as a Backend Developer
-
 - :star: I’m skilled in **Full Stack Development, Backend Development, DApp Development, Blockchain Development**
 
 - :computer: I’m currently working on [Planetmint](https://github.com/planetmint)
@@ -15,10 +11,6 @@
 - :file_folder: All of my projects are available at [https://github.com/Sangatdas?tab=repositories](https://github.com/Sangatdas?tab=repositories)
 
 - 💬 Ask me about **Blockchain and Web Development**
-
-- 📫 How to reach me **sangatdas5@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sangat-das/](https://www.linkedin.com/in/sangat-das/)
 
 - ⚡ Fun fact **I was a National Level Swimmer**
 
@@ -101,24 +93,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   </p>
 </section>
-
-<br>
-
-<section>
-  <h2 align="center">Connect with me or Know about me</h2>
-  <p align="center">
-    <a href="https://twitter.com/sangat_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangat_das" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/sangat-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangat-das" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/8186753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8186753" height="30" width="40" /></a>
-    <a href="https://fb.com/sangat.das1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sangat.das1" height="30" width="40" /></a>
-    <a href="https://instagram.com/sangatdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangatdas" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/sangatdas5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sangatdas5" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/@sangatdas5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sangatdas5" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/sangatdas/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangatdas/profile" height="30" width="40" /></a>
-  </p>
-</section>
-
-<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangatdas&show_icons=true&locale=en&layout=compact" alt="sangatdas" /></p>
 
