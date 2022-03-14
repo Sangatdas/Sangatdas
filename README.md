@@ -94,8 +94,8 @@
   </p>
 </section>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangatdas&show_icons=true&locale=en&layout=compact" alt="sangatdas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roninx991&show_icons=true&locale=en&layout=compact" alt="roninx991" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangatdas&show_icons=true&locale=en" alt="sangatdas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roninx991&show_icons=true&locale=en" alt="roninx991" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangatdas&" alt="sangatdas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roninx991&" alt="roninx991" /></p>
