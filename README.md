@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sangat Das</h1>
-<h3 align="center">:desktop_computer: A passionate blockchain developer
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">:desktop_computer: I'm a passionate blockchain developer
 
 <h2 align="left">About Me &nbsp;<img src="https://komarev.com/ghpvc/?username=sangatdas&label=Profile%20views&color=0e75b6&style=flat" alt="sangatdas" /></h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangatdas&margin-w=5&margin-h=5" alt="sangatdas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roninx991&margin-w=5&margin-h=5" alt="sangatdas" /></a> </p>
 
 - :star: I’m skilled in **Full Stack Development, Backend Development, DApp Development, Blockchain Development**
 
 - :computer: I’m currently working on [Planetmint](https://github.com/planetmint)
 
-- :file_folder: All of my projects are available at [https://github.com/Sangatdas?tab=repositories](https://github.com/Sangatdas?tab=repositories)
+- :file_folder: All of my projects are available at [https://github.com/roninx991?tab=repositories](https://github.com/roninx991?tab=repositories)
 
 - 💬 Ask me about **Blockchain and Web Development**
 
