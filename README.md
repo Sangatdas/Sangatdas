@@ -6,7 +6,7 @@
 
 - :star: I’m skilled in **Full Stack Development, Backend Development, DApp Development, Blockchain Development**
 
-- :computer: I’m currently working on [Planetmint](https://github.com/planetmint)
+- :computer: I’m currently working at [Community Gaming]([https://github.com/planetmint](https://communitygaming.io/))
 
 - :file_folder: All of my projects are available at [https://github.com/roninx991?tab=repositories](https://github.com/roninx991?tab=repositories)
 
